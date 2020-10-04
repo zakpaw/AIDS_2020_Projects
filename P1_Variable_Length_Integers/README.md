@@ -6,4 +6,4 @@
 <li>max - print the maximum of the stored numbers,</li>
 <li>? - print all of the stored numbers.<br></li>
 </ul>
-You should implement your own data structures (you should not use STL library, vector, string etc.).  
+<br>You should implement your own data structures (you should not use STL library, vector, string etc.).  
