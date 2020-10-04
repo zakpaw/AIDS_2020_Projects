@@ -5,5 +5,5 @@
 <li>min - print the minimum of the stored numbers,</li>
 <li>max - print the maximum of the stored numbers,</li>
 <li>? - print all of the stored numbers.<br></li>
-</ul><br>
-#### You should implement your own data structures (you should not use STL library, vector, string etc.).  
+</ul>
+You should implement your own data structures (you should not use STL library, vector, string etc.).  
